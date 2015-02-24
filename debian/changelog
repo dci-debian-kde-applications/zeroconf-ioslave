@@ -2,6 +2,7 @@ zeroconf-ioslave (4:14.12.2-1~) UNRELEASED; urgency=medium
 
   * Prepare initial Debian release.
   * Bump Standards-Version to 3.9.6, no changes needed.
+  * Update copyright information.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 15:49:34 +0100
 
