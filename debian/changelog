@@ -1,3 +1,9 @@
+zeroconf-ioslave (4:14.12.2-1~) UNRELEASED; urgency=medium
+
+  * Prepare initial Debian release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 15:49:34 +0100
+
 zeroconf-ioslave (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
