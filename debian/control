@@ -12,7 +12,6 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/applications/zeroconf-ioslave.git
 
 Package: kde-zeroconf
 Architecture: any
-Priority: extra
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: zeroconf plugins and kio slaves for KDE
  Zeroconf is an implementation of IPv4 link-local addresses (RFC3927)
@@ -25,8 +24,8 @@ Description: zeroconf plugins and kio slaves for KDE
 
 Package: kde-zeroconf-dbg
 Section: debug
-Architecture: any
 Priority: extra
+Architecture: any
 Depends: ${misc:Depends}, kde-runtime-dbg, kde-zeroconf (= ${binary:Version})
 Breaks: kdenetwork-dbg
 Replaces: kdenetwork-dbg
