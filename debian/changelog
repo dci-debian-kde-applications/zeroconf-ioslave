@@ -1,4 +1,4 @@
-zeroconf-ioslave (4:15.04.2-0ubuntu1) UNRELEASED; urgency=medium
+zeroconf-ioslave (4:15.04.2-0ubuntu1) wily; urgency=medium
 
   [ Scarlett Clark ]
   * New upstream release
@@ -7,7 +7,7 @@ zeroconf-ioslave (4:15.04.2-0ubuntu1) UNRELEASED; urgency=medium
   [ Jonathan Riddell ]
   * New upstream release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 06 Jun 2015 02:48:48 +0200
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 22:46:40 +0200
 
 zeroconf-ioslave (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
