@@ -1,9 +1,9 @@
-zeroconf-ioslave (4:15.04.2-1~) UNRELEASED; urgency=medium
+zeroconf-ioslave (4:15.04.2-1) experimental; urgency=medium
 
   * New upstream release (15.04.0).
   * New upstream release (15.04.2).
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 05 Jun 2015 11:17:08 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 19:13:45 +0200
 
 zeroconf-ioslave (4:14.12.2-1) experimental; urgency=medium
 
