@@ -1,9 +1,10 @@
-zeroconf-ioslave (4:15.08.1-0ubuntu1) UNRELEASED; urgency=medium
+zeroconf-ioslave (4:15.08.2-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
   * Vivid backport
+  * Vivid backport
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 01 Oct 2015 12:48:28 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Sun, 18 Oct 2015 10:37:03 -0700
 
 zeroconf-ioslave (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
