@@ -24,17 +24,3 @@ Description: zeroconf plugins and kio slaves for KDE
  Keywords: avahi, dnssd.
  .
  This package is part of the KDE networking module.
-
-Package: kde-zeroconf-dbg
-Section: debug
-Priority: extra
-Architecture: any
-Depends: kde-runtime-dbg, kde-zeroconf (= ${binary:Version}), ${misc:Depends}
-Breaks: kdenetwork-dbg
-Replaces: kdenetwork-dbg
-Description: debug symbols for kde-zeroconf
- Zeroconf is an implementation of IPv4 link-local addresses (RFC3927)
- which can be used for ad-hoc networks.  Addresses are allocated from
- the 169.254.0.0/16 range semi-randomly.
- .
- This package contains the debug symbols for kde-zeroconf.
