@@ -1,8 +1,21 @@
-zeroconf-ioslave (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
+zeroconf-ioslave (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release 
+  * Merged with Debian
 
- -- Clive Johnston <clivejo@aol.com>  Sun, 03 Jan 2016 00:01:33 +0000
+ -- Clive Johnston <clivejo@aol.com>  Sun, 07 Feb 2016 14:50:43 +0000
+
+zeroconf-ioslave (4:15.12.0-1) experimental; urgency=medium
+
+  * New upstream release (15.12.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 01 Feb 2016 10:23:43 +0100
+
+zeroconf-ioslave (4:15.08.3-1) experimental; urgency=medium
+
+  * New upstream release (15.08.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 02 Dec 2015 12:39:25 +0100
 
 zeroconf-ioslave (4:15.08.2-0ubuntu1) wily; urgency=medium
 
@@ -28,6 +41,13 @@ zeroconf-ioslave (4:15.07.90-0ubuntu1) wily; urgency=medium
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Aug 2015 12:36:25 +0100
 
+zeroconf-ioslave (4:15.04.2-1) experimental; urgency=medium
+
+  * New upstream release (15.04.0).
+  * New upstream release (15.04.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 19:13:45 +0200
+
 zeroconf-ioslave (4:15.04.2-0ubuntu1) wily; urgency=medium
 
   [ Scarlett Clark ]
@@ -45,10 +65,18 @@ zeroconf-ioslave (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 13:54:29 -0700
 
+zeroconf-ioslave (4:14.12.2-1) experimental; urgency=medium
+
+  * Prepare initial Debian release.
+  * Bump Standards-Version to 3.9.6, no changes needed.
+  * Update copyright information.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 16:18:08 +0100
+
 zeroconf-ioslave (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
-  * Remove unstable from watch file, uscan fails with 
+  * Remove unstable from watch file, uscan fails with
     remote site does not even have current version
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 08:46:55 -0800

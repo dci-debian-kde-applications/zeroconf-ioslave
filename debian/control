@@ -2,15 +2,16 @@ Source: zeroconf-ioslave
 Section: kde
 Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Build-Depends: cmake,
-               debhelper (>= 7.3.16),
+Uploaders: Maximiliano Curia <maxy@debian.org>
+Build-Depends: cmake (>= 2.8.9~),
+               debhelper (>= 9),
                kde-sc-dev-latest (>= 4:4.10.2),
                kdelibs5-dev,
                pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.6
 Homepage: http://www.kde.org/
-Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-applications/zeroconf-ioslave.git/
-Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/zeroconf-ioslave
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/applications/zeroconf-ioslave.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/applications/zeroconf-ioslave.git
 
 Package: kde-zeroconf
 Architecture: any
