@@ -1,9 +1,9 @@
-zeroconf-ioslave (4:15.12.3-0ubuntu1) UNRELEASED; urgency=medium
+zeroconf-ioslave (4:15.12.3-0ubuntu1) xenial; urgency=medium
 
   * New upstream bugfix release
   * New upstream bugfix release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 16 Mar 2016 20:55:09 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 14 Apr 2016 16:33:01 -0700
 
 zeroconf-ioslave (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
