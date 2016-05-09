@@ -1,10 +1,18 @@
-zeroconf-ioslave (4:15.12.0-2~1.gbp1c57f9) UNRELEASED; urgency=medium
+zeroconf-ioslave (4:15.12.0-2~2.gbpba3150) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @ba3150e7d4688dc50961ecf144ead9c047a286b7 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @1c57f9804747afa735f4cef4542f8c29ad83a6e8 **
 
   * Bump Standards-Version to 3.9.8
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:38:25 +0200
+  [ Maximiliano Curia ]
+  * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 11:38:15 +0200
 
 zeroconf-ioslave (4:15.12.0-1) experimental; urgency=medium
 
