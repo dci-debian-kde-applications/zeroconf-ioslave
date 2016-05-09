@@ -8,7 +8,7 @@ Build-Depends: cmake (>= 2.8.9~),
                kde-sc-dev-latest (>= 4:4.10.2),
                kdelibs5-dev,
                pkg-kde-tools (>= 0.12)
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 Homepage: http://www.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/zeroconf-ioslave.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/zeroconf-ioslave.git
