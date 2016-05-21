@@ -1,10 +1,6 @@
-zeroconf-ioslave (4:15.12.0-2~2.gbpba3150) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @ba3150e7d4688dc50961ecf144ead9c047a286b7 **
+zeroconf-ioslave (4:15.12.0-2) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @1c57f9804747afa735f4cef4542f8c29ad83a6e8 **
-
   * Bump Standards-Version to 3.9.8
 
   [ Maximiliano Curia ]
@@ -12,7 +8,7 @@ zeroconf-ioslave (4:15.12.0-2~2.gbpba3150) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 11:38:15 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 May 2016 23:59:01 +0200
 
 zeroconf-ioslave (4:15.12.0-1) experimental; urgency=medium
 
