@@ -5,6 +5,7 @@ zeroconf-ioslave (4:16.08.0-0r1) UNRELEASED; urgency=medium
   * Stop forcing the local installation to debian/tmp, letting the package
     directory as install place.
     - remove kde-zeroconf.install, no more used now
+  * Remove not-installed file, no more needed now.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 28 Aug 2016 08:24:56 +0200
 
