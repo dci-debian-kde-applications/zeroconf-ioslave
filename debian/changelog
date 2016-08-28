@@ -1,6 +1,6 @@
-zeroconf-ioslave (4:16.08.0-0r1) UNRELEASED; urgency=medium
+zeroconf-ioslave (4:16.08.0-1) unstable; urgency=medium
 
-  [ Pino Toscano ]
+  * Team upload.
   * New upstream release.
   * Stop forcing the local installation to debian/tmp, letting the package
     directory as install place.
@@ -8,7 +8,7 @@ zeroconf-ioslave (4:16.08.0-0r1) UNRELEASED; urgency=medium
   * Remove not-installed file, no more needed now.
   * Wrap too long changelog line in entry for version 4:15.12.0-2.
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 28 Aug 2016 08:24:56 +0200
+ -- Pino Toscano <pino@debian.org>  Sun, 28 Aug 2016 08:32:05 +0200
 
 zeroconf-ioslave (4:15.12.0-2) unstable; urgency=medium
 
