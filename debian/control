@@ -5,9 +5,13 @@ Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake (>= 2.8.9~),
                debhelper (>= 9),
-               kde-sc-dev-latest (>= 4:4.10.2),
-               kdelibs5-dev,
-               pkg-kde-tools (>= 0.12)
+               extra-cmake-modules,
+               libkf5dbusaddons-dev,
+               libkf5dnssd-dev,
+               libkf5i18n-dev,
+               libkf5kio-dev,
+               pkg-kde-tools (>= 0.12),
+               qtbase5-dev
 Standards-Version: 3.9.8
 Homepage: http://www.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/zeroconf-ioslave.git
