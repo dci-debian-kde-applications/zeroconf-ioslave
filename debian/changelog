@@ -1,3 +1,10 @@
+zeroconf-ioslave (4:17.08.3-0r1) UNRELEASED; urgency=medium
+
+  [ Pino Toscano ]
+  * New upstream release.
+
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 31 Dec 2017 19:29:09 +0100
+
 zeroconf-ioslave (4:16.08.0-1) unstable; urgency=medium
 
   * Team upload.
