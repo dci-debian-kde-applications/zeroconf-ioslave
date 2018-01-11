@@ -1,11 +1,11 @@
-zeroconf-ioslave (4:17.08.3-0r1) UNRELEASED; urgency=medium
+zeroconf-ioslave (4:17.08.3-1) unstable; urgency=medium
 
-  [ Pino Toscano ]
+  * Team upload.
   * New upstream release.
   * Bump Standards-Version to 4.1.3, no changes required.
   * Simplify watch file, and switch it to https.
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 31 Dec 2017 19:29:09 +0100
+ -- Pino Toscano <pino@debian.org>  Thu, 11 Jan 2018 09:55:26 +0100
 
 zeroconf-ioslave (4:16.08.0-1) unstable; urgency=medium
 
